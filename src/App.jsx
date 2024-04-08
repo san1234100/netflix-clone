@@ -1,14 +1,11 @@
-
+import TheHeader from "./components/TheHeader";
 
 function App() {
-
   return (
     <>
-     
-      <h1>Vite + React</h1>
-      
+    <TheHeader/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
