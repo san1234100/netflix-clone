@@ -47,13 +47,13 @@ const TheHeader = () => {
           width="32"
           height="32"
           viewBox="0 0 24 24"
-          className="fill-gray-100"
+          className="fill-gray-100 cursor-pointer"
         >
           <path
             d="M4 19v-2h2v-7q0-2.075 1.25-3.687T10.5 4.2v-.7q0-.625.438-1.062T12 2q.625 0 1.063.438T13.5 3.5v.7q2 .5 3.25 2.113T18 10v7h2v2zm8 3q-.825 0-1.412-.587T10 20h4q0 .825-.587 1.413T12 22"
           />
         </svg>
-        <div className="w-10 h-10 text-xl font-semibold text-black rounded-full bg-gradient-to-tr from-blue-300 via-blue-400 to-blue-600 flex items-center justify-center">
+        <div className="w-10 h-10 cursor-pointer text-xl font-semibold text-black rounded-full bg-gradient-to-tr from-blue-300 via-blue-400 to-blue-600 flex items-center justify-center">
             V
         </div>
       </div>

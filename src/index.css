@@ -5,3 +5,10 @@
 *{
   font-family: "Noto Sans", sans-serif;
 }
+
+.card:hover {
+  transform: scale(1.054);
+}
+.card {
+  transition: transform 0.5s;
+}
