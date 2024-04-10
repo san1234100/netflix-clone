@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "thelostcity",
+        "img":"../public/image_movies/lostcity.jpg"
+    },
+    {
+        "id": 2,
+        "name": "kissingbooth",
+        "img":"./image_movies/kissingbooth.jpg"
+    }, {
+        "id": 3,
+        "name": "beast",
+        "img":"./image_movies/beast.jpg"
+    }, {
+        "id": 4,
+        "name": "tenet",
+        "img":"./image_movies/tenet.jpg"
+    }, {
+        "id": 5,
+        "name": "darkknight",
+        "img":"./image_movies/knight.png"
+    }
+
+]

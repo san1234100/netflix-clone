@@ -1,5 +1,6 @@
 import TheHeader from "./components/TheHeader";
 import TrendingSection from "./components/TrendingSection";
+import WatchItAgainSection from "./components/WatchItAgainSection";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
     <TheHeader/>
    <main>
       <TrendingSection/>
+      <WatchItAgainSection/>
    </main>
     </>
   );
