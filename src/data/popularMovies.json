@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "inception",
+        "img":"../public/image_movies/inception.jpg"
+    },
+    {
+        "id": 2,
+        "name": "extraction",
+        "img":"./image_movies/extraction.jpg"
+    }, {
+        "id": 3,
+        "name": "fast and furious",
+        "img":"./image_movies/ff.jpg"
+    }, {
+        "id": 4,
+        "name": "mandela",
+        "img":"./image_movies/mandela.jpeg"
+    }, {
+        "id": 5,
+        "name": "manofsteel",
+        "img":"./image_movies/manofsteel.jpg"
+    }
+
+]

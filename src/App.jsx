@@ -1,3 +1,4 @@
+import PopularMoviesSection from "./components/PopularMoviesSection";
 import TheHeader from "./components/TheHeader";
 import TrendingSection from "./components/TrendingSection";
 import WatchItAgainSection from "./components/WatchItAgainSection";
@@ -9,6 +10,7 @@ function App() {
    <main>
       <TrendingSection/>
       <WatchItAgainSection/>
+      <PopularMoviesSection/>
    </main>
     </>
   );
