@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "leo",
+        "img":"../public/image_movies/leo.jpg"
+    },
+    {
+        "id": 2,
+        "name": "fighter",
+        "img":"./image_movies/fighter.png"
+    }, {
+        "id": 3,
+        "name": "jouneytocenterofearth",
+        "img":"./image_movies/jouneytocenterofearth.jpg"
+    }, {
+        "id": 4,
+        "name": "grayman1",
+        "img":"./image_movies/grayman1.jpg"
+    }, {
+        "id": 5,
+        "name": "batmanvssuperman",
+        "img":"./image_movies/batmanvssuperman.jpg"
+    }
+
+]
