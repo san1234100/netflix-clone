@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "lucifer",
+        "img":"../public/image_movies/lucifer.jpg"
+    },
+    {
+        "id": 2,
+        "name": "avatar",
+        "img":"./image_movies/avatar.jpg"
+    }, {
+        "id": 3,
+        "name": "strangerthings",
+        "img":"./image_movies/strangerthings.jpg"
+    }, {
+        "id": 4,
+        "name": "moneyheist",
+        "img":"./image_movies/moneyheist.png"
+    }, {
+        "id": 5,
+        "name": "breakingbad",
+        "img":"./image_movies/breakingbad.jpg"
+    }
+
+]

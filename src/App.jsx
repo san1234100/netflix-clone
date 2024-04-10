@@ -1,4 +1,5 @@
 import PopularMoviesSection from "./components/PopularMoviesSection";
+import SeriesSection from "./components/SeriesSection";
 import TheHeader from "./components/TheHeader";
 import TrendingSection from "./components/TrendingSection";
 import WatchItAgainSection from "./components/WatchItAgainSection";
@@ -11,6 +12,7 @@ function App() {
       <TrendingSection/>
       <WatchItAgainSection/>
       <PopularMoviesSection/>
+      <SeriesSection/>
    </main>
     </>
   );

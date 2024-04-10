@@ -28,7 +28,7 @@ const TheHeader = () => {
         <input
           type="text"
           placeholder="Search"
-          className="px-14 py-2.5 bg-gray-700 rounded-full outline-none"
+          className="px-14 py-2.5 bg-gray-900 rounded-full outline-none"
         />
         <svg
           xmlns="http://www.w3.org/2000/svg"
