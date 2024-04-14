@@ -148,5 +148,60 @@
     "img":"./image_movies/manofsteel.jpg",
     "description": "Clark Kent, a young man who discovers he has extraordinary powers and is not of Earth, takes to the skies to become Superman and save the world from imminent destruction.",
     "releasedyear": 2013
+  },
+  {
+    "id":16,
+    "title": "Lucifer",
+    "imdb_rating": 8.6,
+    "video_quality": "HD",
+    "genre": "Urban fantasy, Crime drama, Comedy",
+    "season": 6,
+    "img":"../public/image_movies/lucifer.jpg",
+    "description": "The charming Devil, bored with his infernal duties, relocates to Los Angeles, opening a nightclub and becoming a consultant for the LAPD. But his carefree life is threatened by a celestial struggle brewing between good and evil.",
+    "released_year": 2016
+  },
+  {
+    "id":17,
+    "title": "Avatar",
+    "imdb_rating": 7.8,
+    "video_quality": "4K",
+    "genre": "Science fiction, Action, Adventure",
+    "season": 1,
+    "img":"./image_movies/avatar.jpg",
+    "description": "In the mid-22nd century, humans travel to Pandora, a moon rich in an unobtanium mineral, to mine it. A paraplegic former Marine, Jake Sully, becomes an avatar, a genetically engineered human-Na'vi hybrid, to infiltrate the Na'vi, who are hostile to human mining on their land.",
+    "released_year": 2009
+  },
+  {
+    "id":18,
+    "title": "Stranger Things",
+    "imdb_rating": 8.7,
+    "video_quality": "HD",
+    "genre": "Science fiction, Horror, Mystery",
+    "season": 4 ,
+    "img":"./image_movies/strangerthings.jpg",
+    "description": "When a young boy disappears, a small town uncovers a mystery involving secret government experiments, terrifying supernatural forces and one very strange little girl.",
+    "released_year": 2016
+  },
+  {
+    "id":19,
+    "title": "Money Heist (La Casa de Papel)",
+    "imdb_rating": 8.3,
+    "video_quality": "HD",
+    "genre": "Crime, Drama, Thriller",
+    "season": 5,
+    "img":"./image_movies/moneyheist.png",
+    "description": "An eccentric criminal mastermind known as the Professor recruits a group of talented individuals to carry out a daring heist on the Royal Mint of Spain. The robbery plan is ambitious, and the crew is keeping a big secret.",
+    "released_year": 2017
+  },
+  {
+    "id":20,
+    "title": "Breaking Bad",
+    "imdb_rating": 9.5,
+    "video_quality": "HD",
+    "genre": "Crime drama, Neo-Western",
+    "season": 5,
+    "img":"./image_movies/breakingbad.jpg",
+    "description": "A high school chemistry teacher diagnosed with terminal cancer turns to cooking and selling crystal meth to secure his family's financial future. The series explores the themes of morality, death, greed, family, and the consequences of crime.",
+    "released_year": 2008
   }
 ]
