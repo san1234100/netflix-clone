@@ -1,19 +1,18 @@
-import PopularMoviesSection from "./components/PopularMoviesSection";
-import SeriesSection from "./components/SeriesSection";
+import { Route, Routes } from "react-router-dom";
 import TheHeader from "./components/TheHeader";
-import TrendingSection from "./components/TrendingSection";
-import WatchItAgainSection from "./components/WatchItAgainSection";
+
+import HomePage from "./layout/HomePage";
 
 function App() {
   return (
     <>
-    <TheHeader/>
-   <main>
-      <TrendingSection/>
-      <WatchItAgainSection/>
-      <PopularMoviesSection/>
-      <SeriesSection/>
-   </main>
+      <TheHeader />
+      <main>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/:id" element={<HomePage />} />
+        </Routes>
+      </main>
     </>
   );
 }

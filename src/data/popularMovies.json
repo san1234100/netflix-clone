@@ -1,19 +1,19 @@
 [
     {
-        "id": 1,
+        "id": 11,
         "name": "inception",
         "img":"../public/image_movies/inception.jpg"
     },
     {
-        "id": 2,
+        "id": 12,
         "name": "extraction",
         "img":"./image_movies/extraction.jpg"
     }, {
-        "id": 3,
+        "id": 13,
         "name": "fast and furious",
         "img":"./image_movies/ff.jpg"
     }, {
-        "id": 4,
+        "id": 14,
         "name": "mandela",
         "img":"./image_movies/mandela.jpeg"
     }, {
