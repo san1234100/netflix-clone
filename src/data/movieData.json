@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Leo",
+    "imdb_rating": "7.8",
+    "video_quality": "HD",
+    "genre": "Action, Adventure",
+    "img": "../public/image_movies/leo.jpg",
+    "description": "A thrilling story of a cop who takes on a dangerous mission.",
+    "releasedyear": "2023"
+  },
+  {
+    "id": 2,
+    "img": "./image_movies/fighter.png",
+    "title": "Fighter",
+    "imdb_rating": "8.2",
+    "video_quality": "4K",
+    "genre": "Drama, Sports",
+    "description": "An inspiring tale of an underdog boxer who fights for his dreams.",
+    "releasedyear": "2022"
+  },
+  {
+    "id": 3,
+    "img": "./image_movies/jouneytocenterofearth.jpg",
+    "title": "Journey to the Center of the Earth",
+    "imdb_rating": "6.5",
+    "video_quality": "HD",
+    "genre": "Action, Adventure, Sci-Fi",
+    "description": "A scientist and his nephew embark on a daring expedition to the Earth's core.",
+    "releasedyear": "2008"
+  },
+  {
+    "id": 4,
+    "img": "./image_movies/grayman1.jpg",
+    "title": "Grayman",
+    "imdb_rating": "8.1",
+    "video_quality": "4K",
+    "genre": "Action, Thriller",
+    "description": "A former CIA agent is hunted by his former colleagues in a deadly game of cat and mouse.",
+    "releasedyear": "2023"
+  },
+  {
+    "id": 5,
+    "img": "./image_movies/batmanvssuperman.jpg",
+    "title": "Batman v Superman: Dawn of Justice",
+    "imdb_rating": "6.5",
+    "video_quality": "4K",
+    "genre": "Action, Adventure, Fantasy",
+    "description": "Batman and Superman clash as a new threat arises that puts humanity in danger.",
+    "releasedyear": "2016"
+  },
+  {
+    "id":6,
+    "title": "The Lost City",
+    "imdb_rating": "7.1",
+    "video_quality": "HD",
+    "img":"../public/image_movies/lostcity.jpg",
+    "genre": "Action, Adventure, Comedy",
+    "description": "A reclusive romance novelist on a book tour is kidnapped by a treasure hunter who believes her latest fiction is a map to a lost city.",
+    "releasedyear": "2022"
+  },
+  {
+    "id":7,
+    "title": "The Kissing Booth",
+    "imdb_rating": "5.5",
+    "video_quality": "HD",
+    "img":"./image_movies/kissingbooth.jpg",
+    "genre": "Comedy, Romance, Teen",
+    "description": "Elle Evans has always been the responsible, rule-abiding one in her friendship with the carefree, adventurous Noah Flynn. But when they decide to run a kissing booth at their high school's Spring Carnival, Elle finds herself unexpectedly falling for Noah, putting their friendship and her relationship with his older brother, Brad, at risk.",
+    "releasedyear": "2018"
+  },
+  {
+    "id":8,
+    "title": "Beast",
+    "imdb_rating": "6.6",
+    "video_quality": "HD",
+    "genre": "Action, Thriller",
+    "img":"./image_movies/beast.jpg",
+    "description": "A former RAW agent, who is leading a peaceful life with his estranged wife and daughter, is forced to confront his dark past when a ruthless villain targets him and his family.",
+    "release_year": "2022"
+  },
+  {
+    "id":9,
+    "title": "Tenet",
+    "imdb_rating": "7.4",
+    "video_quality": "4K",
+    "genre": "Action, Sci-fi, Thriller",
+    "img":"./image_movies/tenet.jpg",
+    "description": "Armed with only a single word - Tenet - and fighting for the survival of the entire world, a nameless protagonist journeys through a dark world of espionage, international conflict, and reality-bending time manipulation.",
+    "releasedyear": "2020"
+  },
+  {
+    "id":10,
+    "title": "The Dark Knight",
+    "imdb_rating": "9.0",
+    "video_quality": "4K",
+    "genre": "Action, Crime, Drama",
+    "img":"./image_movies/knight.png", 
+    "description": "With the help of Jim Gordon and a district attorney, Batman sets out to dismantle the remaining criminal organizations that plague Gotham City. The triumvirate face off against the Joker, a psychopathic criminal who enjoys anarchy and thrusts Gotham into chaos.",
+    "releasedyear": "2008"
+  },
+  {
+    "id":11,
+    "title": "Inception",
+    "imdb_rating": "8.8",
+    "video_quality": "HD",
+    "genre": "Action, Thriller, Sci-Fi",
+    "img":"../public/image_movies/inception.jpg",
+    "description": "A professional thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "releasedyear": 2010
+  },
+  {
+    "id":12,
+    "title": "Extraction",
+    "imdb_rating": "6.7",
+    "video_quality": "4K",
+    "genre": "Action, Adventure, Crime",
+    "img":"./image_movies/extraction.jpg",
+    "description": "A black market mercenary who specializes in rescuing kidnapped people is hired to rescue the son of an imprisoned gangster.",
+    "releasedyear": 2020
+  },
+  {
+    "id":13,
+    "title": "Fast & Furious",
+    "imdb_rating": "6.8",
+    "video_quality": "HD",
+    "genre": "Action, Crime, Thriller",
+    "img":"./image_movies/ff.jpg",
+    "description": "Los Angeles police officer Brian O'Conner infiltrates a street racing crew that hijacked lucrative rigs.",
+    "releasedyear": 2001
+  },
+  {
+    "id":14,
+    "title": "Mandela",
+    "imdb_rating": 7.3,
+    "video_quality": "HD",
+    "genre": ["Biography", "Drama", "History"],
+    "img":"./image_movies/mandela.jpeg",
+    "description": "The film chronicles Nelson Mandela's life from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.",
+    "released_year": 2021
+  },
+  {
+    "id":15,
+    "title": "Man of Steel",
+    "imdb_rating": "6.9",
+    "video_ stanovnika": "HD",
+    "genre": "Action, Adventure, Sci-Fi",
+    "img":"./image_movies/manofsteel.jpg",
+    "description": "Clark Kent, a young man who discovers he has extraordinary powers and is not of Earth, takes to the skies to become Superman and save the world from imminent destruction.",
+    "releasedyear": 2013
+  }
+]
