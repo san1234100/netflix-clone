@@ -12,3 +12,7 @@
 .card {
   transition: transform 0.5s;
 }
+
+.bg-shadow{
+  box-shadow: 40px 25px 70px 70px black;
+}
