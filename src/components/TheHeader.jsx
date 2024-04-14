@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const TheHeader = () => {
   return (
@@ -6,7 +7,7 @@ const TheHeader = () => {
       <div className="flex items-center space-x-5">
         <img src="./logo.png" className="w-44" alt="logo" />
         <ul className="flex items-center space-x-7 text-lg text-white">
-          <li className="cursor-pointer hover:text-ligthRed">Home</li>
+          <Link to={'/'} className="cursor-pointer hover:text-ligthRed">Home</Link>
           <li className="cursor-pointer hover:text-ligthRed text-gray-400">
             Series
           </li>
